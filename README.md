@@ -31,7 +31,7 @@ without making every line the same Trump joke.
 
 ## Hear a few clips
 
-[▶ Play or download the voice sample reel](https://github.com/ryanbieber/ocarina-of-trump/releases/download/v0.1/ocarina-of-trump-voice-samples.mp4)
+[▶ Play or download the voice sample reel](https://github.com/ryeceps/ocarina-of-trump/releases/download/v0.1/ocarina-of-trump-voice-samples.mp4)
 
 The reel contains four clips from the game:
 

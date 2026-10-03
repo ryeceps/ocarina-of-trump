@@ -35,7 +35,7 @@ the game. Keep the checkout in the Linux filesystem for faster builds.
 
    ```bash
    cd ~
-   git clone https://github.com/ryanbieber/ocarina-of-trump.git
+   git clone https://github.com/ryeceps/ocarina-of-trump.git
    cd ocarina-of-trump
    git switch main
    export OOT_TRUMP_BLENDER="/mnt/c/Program Files/Blender Foundation/Blender 5.2/blender.exe"
